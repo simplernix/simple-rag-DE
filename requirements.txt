@@ -1,0 +1,8 @@
+pymupdf
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+ollama
+tqdm
+python-dotenv
